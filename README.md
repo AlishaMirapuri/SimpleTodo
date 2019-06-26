@@ -11,7 +11,7 @@ Time spent: **4** hours spent in total
 The following **required** functionality is completed:
 
 * [x] User can **view a list of todo items**
-* [ ] User can **successfully add and remove items** from the todo list
+* [x] User can **successfully add and remove items** from the todo list
 * [x] User's **list of items persisted** upon modification and and retrieved properly on app restart
 
 The following **stretch** features are implemented:
@@ -32,7 +32,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Some challenges I encountered when building the app were having repeated import statements and importing the file into Android Studio in the beginning. I had to find the root of these problems in order to solve them and have a detailed look over my code.  
 
 ## License
 
